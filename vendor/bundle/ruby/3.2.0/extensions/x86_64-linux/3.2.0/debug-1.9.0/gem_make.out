@@ -1,0 +1,19 @@
+current directory: /home/kalpizard/rails_sql_test/my_rails_app/vendor/bundle/ruby/3.2.0/gems/debug-1.9.0/ext/debug
+/home/kalpizard/.rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/kalpizard/rails_sql_test/my_rails_app/vendor/bundle/ruby/3.2.0/gems/debug-1.9.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231214-698-922r30 sitelibdir\=./.gem.20231214-698-922r30 clean
+
+current directory: /home/kalpizard/rails_sql_test/my_rails_app/vendor/bundle/ruby/3.2.0/gems/debug-1.9.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231214-698-922r30 sitelibdir\=./.gem.20231214-698-922r30
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/kalpizard/rails_sql_test/my_rails_app/vendor/bundle/ruby/3.2.0/gems/debug-1.9.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231214-698-922r30 sitelibdir\=./.gem.20231214-698-922r30 install
+/usr/bin/install -m 0755 debug.so ./.gem.20231214-698-922r30/debug
+
+current directory: /home/kalpizard/rails_sql_test/my_rails_app/vendor/bundle/ruby/3.2.0/gems/debug-1.9.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231214-698-922r30 sitelibdir\=./.gem.20231214-698-922r30 clean

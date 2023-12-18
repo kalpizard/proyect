@@ -1,0 +1,31 @@
+current directory: /home/kalpizard/rails_sql_test/my_rails_app/vendor/bundle/ruby/3.0.0/gems/tiny_tds-2.1.6/ext/tiny_tds
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20231214-3144-9p0elv.rb extconf.rb
+looking for freetds headers in the following directories:
+ - /opt/local/include
+ - /opt/local/include/freetds
+ - /usr/local/include
+ - /usr/local/include/freetds
+looking for freetds library in the following directories:
+ - /opt/local/lib
+ - /opt/local/lib/freetds
+ - /usr/local/lib
+ - /usr/local/lib/freetds
+checking for sybfront.h... yes
+checking for sybdb.h... yes
+checking for tdsdbopen() in -lsybdb... yes
+checking for dbanydatecrack() in -lsybdb... yes
+creating Makefile
+
+current directory: /home/kalpizard/rails_sql_test/my_rails_app/vendor/bundle/ruby/3.0.0/gems/tiny_tds-2.1.6/ext/tiny_tds
+make DESTDIR\= clean
+
+current directory: /home/kalpizard/rails_sql_test/my_rails_app/vendor/bundle/ruby/3.0.0/gems/tiny_tds-2.1.6/ext/tiny_tds
+make DESTDIR\=
+compiling client.c
+compiling result.c
+compiling tiny_tds_ext.c
+linking shared-object tiny_tds/tiny_tds.so
+
+current directory: /home/kalpizard/rails_sql_test/my_rails_app/vendor/bundle/ruby/3.0.0/gems/tiny_tds-2.1.6/ext/tiny_tds
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 tiny_tds.so ./.gem.20231214-3144-nv23za/tiny_tds

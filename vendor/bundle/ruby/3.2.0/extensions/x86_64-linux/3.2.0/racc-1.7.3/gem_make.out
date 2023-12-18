@@ -1,0 +1,18 @@
+current directory: /home/kalpizard/rails_sql_test/my_rails_app/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+/home/kalpizard/.rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/kalpizard/rails_sql_test/my_rails_app/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231214-698-noaook sitelibdir\=./.gem.20231214-698-noaook clean
+
+current directory: /home/kalpizard/rails_sql_test/my_rails_app/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231214-698-noaook sitelibdir\=./.gem.20231214-698-noaook
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/kalpizard/rails_sql_test/my_rails_app/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231214-698-noaook sitelibdir\=./.gem.20231214-698-noaook install
+/usr/bin/install -m 0755 cparse.so ./.gem.20231214-698-noaook/racc
+
+current directory: /home/kalpizard/rails_sql_test/my_rails_app/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231214-698-noaook sitelibdir\=./.gem.20231214-698-noaook clean
